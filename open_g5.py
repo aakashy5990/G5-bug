@@ -340,5 +340,12 @@ for i in range(366):
 # **************************** loop code close ****************************
 
 
+# dawnloading SDK Plateform Tools link---->
+# https://developer.android.com/tools/releases/platform-tools
+
+# how to set path-->
+# adb_path = "C:\\Users\\YourUsername\\Downloads\\platform-tools\\adb.exe"
+
+
 
 
